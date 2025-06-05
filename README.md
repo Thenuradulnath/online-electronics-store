@@ -54,4 +54,8 @@ After setting up the database and adding initial product data:
 
 Once completed, the website will be fully functional and ready for testing.
 
+## Acknowledgement of Resources 
+
+This is a product from Unit SWE30003-Software Architectures and Design, Swinburne University of Technology.
+
 © AWE Electronics Store Project
